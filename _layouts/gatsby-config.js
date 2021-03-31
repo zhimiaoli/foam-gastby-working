@@ -1,7 +1,7 @@
 module.exports = {
-  pathPrefix: `/foam-gatsby-template`,
+  pathPrefix: `/foam-gatsby-working`,
   siteMetadata: {
-    title: `Foam`,
+    title: `my Foam Site`,
   },
   plugins: [
     {
